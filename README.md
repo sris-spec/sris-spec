@@ -4,12 +4,12 @@ You can find me here :
 <p align="left">
   <a href="https://www.linkedin.com/in/sristhi-sahoo-7910641ba/"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:sristhisahoo18@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/newbie_code"><img title="Hackerrank" src="https://img.shields.io/badge/Hackerrank-2962FF?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>  
+  <a href="https://www.hackerrank.com/newbie_code"><img title="Hackerrank" src="https://img.shields.io/badge/Hackerrank-DCF5F0?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>  
 
 ## About Me
 Hi, I am Sristhi !
-- 🔭 I am a rising sophomore with BTech in Data Science and Artificial Intelligence from IIIT-NR!.
-- 👩‍💻 I find my technical interests in Problem Solving, Full-stack development,Technical writing, Machine Learning and open source !. 
+- 🔭 I am a rising sophomore with BTech in Data Science and Artificial Intelligence from IIIT-NR.
+- 👩‍💻 I find my technical interests in Problem Solving, Full-stack development,Technical writing, Machine Learning and open source!
 - 👍 I also love collaborating over code with new people and enjoy working in teams be it in projects or hackathons. 
 - 🖋️ I am an artist and I admire most of the things that are drawn by hand or digitally !
  
@@ -25,7 +25,7 @@ Hi, I am Sristhi !
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
 <img alt="Linux" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img alt='MySQL' src="https://img.shields.io/badge/SQL-MySQL?style=for-the-badge&logo=mysql&color=F29111"/>
+<img alt='MySQL' src="https://img.shields.io/badge/SQL-MySQL?style=for-the-badge&logo=mysql&color=DCF5F0"/>
 <img alt='Java' src="https://img.shields.io/badge/Java-Java?style=for-the-badge&logo=java&color=303030"/>
  </a>
 </p>
